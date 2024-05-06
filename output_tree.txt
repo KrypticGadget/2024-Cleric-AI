@@ -1,0 +1,46 @@
+Folder PATH listing for volume OS
+Volume serial number is XXXX-XXXX
+C:\Users\krypt\OneDrive\Desktop\Cleric AI\V2\Code\P7
+|   .env
+|   app.py
+|   exported_directory_contents.md
+|   file_server.py
+|   output_tree.txt
+|   README.md
+|   requirements.txt
+|   +---api
+|   |   endpoints.py
+|   |   schemas.py
+|   |   __init__.py
+|   |   +---__pycache__
+|   |   |   endpoints.cpython-312.pyc
+|   |   |   schemas.cpython-312.pyc
+|   |   |   __init__.cpython-312.pyc
+|   +---cache
+|   |   facts.json
+|   |   fact_changes.json
+|   |   final_facts.json
+|   |   question.json
+|   |   status.json
+|   +---data
+|   |   call_log_1.txt
+|   |   call_log_2.txt
+|   |   call_log_3.txt
+|   +---services
+|   |   fact_change_service.py
+|   |   fact_extraction_service.py
+|   |   __init__.py
+|   |   +---__pycache__
+|   |   |   fact_change_service.cpython-312.pyc
+|   |   |   fact_extraction_service.cpython-312.pyc
+|   |   |   __init__.cpython-312.pyc
+|   +---static
+|   |   styles.css
+|   +---utils
+|   |   anthropic_api.py
+|   |   data_management.py
+|   |   __init__.py
+|   |   +---__pycache__
+|   |   |   anthropic_api.cpython-312.pyc
+|   |   |   data_management.cpython-312.pyc
+|   |   |   __init__.cpython-312.pyc

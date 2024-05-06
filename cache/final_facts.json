@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What are the UX items discussed?",
+    "facts": [
+      "John suggests using a modular design for the product, which will allow for easy addition or removal of features as needed.",
+      "Sara proposes using a responsive design to ensure the product works well on all devices.",
+      "Mike suggests using a dark theme for the user interface, as it is trendy and reduces eye strain for users.",
+      "Sara suggests using websockets to improve latency and provide real-time updates, but Mike proposes holding off on this feature for now due to the amount of work involved."
+    ],
+    "status": "done"
+  }
+]

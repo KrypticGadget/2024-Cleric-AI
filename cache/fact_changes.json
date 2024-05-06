@@ -1,0 +1,25 @@
+[
+  {
+    "question": "What are the UX items discussed?",
+    "fact_changes": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    }
+  },
+  {
+    "question": "What are the UX items discussed?",
+    "fact_changes": {
+      "added": [
+        "Dark theme: Mike suggests using a dark theme for the user interface, as it is trendy and reduces eye strain for users.",
+        "Websockets (mentioned but not agreed upon): Sara suggests using websockets to improve latency and provide real-time updates, but Mike proposes holding off on this feature for now due to the amount of work involved."
+      ],
+      "removed": [
+        "Desktop-first approach: John suggests focusing on desktop first, as their primary users will be using the product on desktops. Sara and Mike agree with this change."
+      ],
+      "modified": [
+        "Modular design: John suggests using a modular design for the product, which will allow for easy addition or removal of features as needed."
+      ]
+    }
+  }
+]

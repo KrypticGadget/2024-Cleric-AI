@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What are the UX items discussed?",
+    "facts": [
+      "1. Responsive design: The team is discussing their decision on responsive design, which ensures the product works well on all devices.",
+      "2. Desktop-first approach: John suggests focusing on desktop first, as their primary users will be using the product on desktops. Sara and Mike agree with this change.",
+      "3. Modular design: Mike mentions that using a modular design doesn't make sense, and suggests not making that decision yet."
+    ],
+    "status": "done",
+    "log_processed_datetime": "2024-05-06 10:52:46"
+  },
+  {
+    "question": "What are the UX items discussed?",
+    "facts": [
+      "1. Modular design: John suggests using a modular design for the product, which will allow for easy addition or removal of features as needed.",
+      "2. Responsive design: Sara proposes using a responsive design to ensure the product works well on all devices.",
+      "3. Dark theme: Mike suggests using a dark theme for the user interface, as it is trendy and reduces eye strain for users.",
+      "4. Websockets (mentioned but not agreed upon): Sara suggests using websockets to improve latency and provide real-time updates, but Mike proposes holding off on this feature for now due to the amount of work involved."
+    ],
+    "status": "done",
+    "log_processed_datetime": "2024-05-06 10:53:02"
+  }
+]
